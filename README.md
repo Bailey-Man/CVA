@@ -16,7 +16,23 @@ Abstract: Create an educational web page and/or tool to delve into each segment 
 * available Jupyter Notebooks used to create visualization
 
 
-Frontend:
-Options = HTML/CSS/JS or PyQt5 or Suave
 
-Maybe I save the whole thing as a folder and require they download py notebook
+6/12/21: its a command line tool! like sleap
+
+* Use PyQt5 for frontend design
+* extra commands open specific python notebooks using jupyter notebook
+
+
+
+Libraries:
+PyQt5
+
+jupyter notebook
+
+satellite viz stuff
+
+gis stuff
+
+analysis stuff
+
+np, pd, mpl, scipy, etc. 
