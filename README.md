@@ -35,4 +35,32 @@ gis stuff
 
 analysis stuff
 
-np, pd, mpl, scipy, etc. 
+np, pd, mpl, scipy, etc.
+
+
+
+File Tree:
+CVA/
+  /notebooks/
+    /remote_sensing/
+      /active/
+      /passive/
+      /microwave/
+    /components/
+      /solid/
+      /snow/
+      /sea/
+      /lakeriver/
+      /land/
+      /permafrost/
+    /data_cleaning/
+      /satellite/
+      /grounded/
+      /other/
+  /data/
+    /gcw_datasets/ #
+
+  /gui/
+    /assets/
+    /PyQt5/
+  /main
